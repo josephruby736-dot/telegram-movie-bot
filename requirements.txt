@@ -1,0 +1,11 @@
+pyrofork==2.3.61
+tgcrypto==1.2.5
+pymongo==4.9.1
+motor==3.6.0
+umongo==3.1.0
+marshmallow==3.23.1
+dnspython==2.7.0
+IMDbPY==2022.7.9
+flask==3.1.0
+python-dotenv==1.0.1
+pytz==2025.2
