@@ -3,7 +3,7 @@ tgcrypto==1.2.5
 pymongo==4.9.1
 motor==3.6.0
 umongo==3.1.0
-marshmallow==3.23.1
+marshmallow==4.0.0
 dnspython==2.7.0
 IMDbPY>=2022.7.9
 flask==3.1.1
